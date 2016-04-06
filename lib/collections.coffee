@@ -1,0 +1,1 @@
+@CollectionTwits = new Mongo.Collection 'twits'
